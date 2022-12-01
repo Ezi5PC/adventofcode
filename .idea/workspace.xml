@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44d20ab-609a-4cee-907f-599cb1acc6c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adventofcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstday/Calories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstday/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heheee/heheee.iml" afterDir="false" />
+    <list default="true" id="f44d20ab-609a-4cee-907f-599cb1acc6c4" name="Changes" comment="Advent of code day 1 - done">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3felev/progtech/20220915/Hallgato" beforeDir="false" afterPath="$PROJECT_DIR$/../3felev/progtech/20220915/Hallgato" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3felev/progtech/beadando/beadando.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3felev/progtech/beadando/beadando2/out/production/beadando2/frontend/GameGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../3felev/progtech/beadando/beadando2/out/production/beadando2/frontend/GameGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3felev/progtech/beadando/beadando2/src/frontend/GameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3felev/progtech/beadando/beadando2/src/frontend/GameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669898460680</updated>
     </task>
+    <task id="LOCAL-00001" summary="Advent of code day 1 - done">
+      <created>1669902816641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669902816641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Advent of code day 1 - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent of code day 1 - done" />
   </component>
 </project>
