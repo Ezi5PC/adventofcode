@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44d20ab-609a-4cee-907f-599cb1acc6c4" name="Changes" comment="Advent of code day 1 - done">
-      <change afterPath="$PROJECT_DIR$/src/thirdday/WeirdInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fourthday/Ranges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3felev/progtech/20220915/Hallgato" beforeDir="false" afterPath="$PROJECT_DIR$/../3felev/progtech/20220915/Hallgato" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,13 +46,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WeirdInput">
+  <component name="RunManager" selected="Application.Ranges">
     <configuration name="Calories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstday.Calories" />
       <module name="adventofcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="firstday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourthday.Ranges" />
+      <module name="adventofcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourthday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ranges" />
         <item itemvalue="Application.WeirdInput" />
         <item itemvalue="Application.RockPaperScissors" />
         <item itemvalue="Application.Calories" />
